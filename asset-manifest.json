@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/YuhanLin1105/pat-ui/static/css/main.922c0226.chunk.css",
+    "main.js": "/YuhanLin1105/pat-ui/main.a798acf05b81a61068c4.bundle.js",
+    "main.css.map": "/YuhanLin1105/pat-ui/static/css/main.922c0226.chunk.css.map",
+    "main.js.map": "/YuhanLin1105/pat-ui/main.a798acf05b81a61068c4.bundle.js.map",
+    "runtime~main.js": "/YuhanLin1105/pat-ui/runtime~main.a798acf05b81a61068c4.bundle.js",
+    "runtime~main.js.map": "/YuhanLin1105/pat-ui/runtime~main.a798acf05b81a61068c4.bundle.js.map",
+    "vendors~main.css": "/YuhanLin1105/pat-ui/static/css/vendors~main.f8f248a5.chunk.css",
+    "vendors~main.js": "/YuhanLin1105/pat-ui/vendors~main.a798acf05b81a61068c4.bundle.js",
+    "vendors~main.css.map": "/YuhanLin1105/pat-ui/static/css/vendors~main.f8f248a5.chunk.css.map",
+    "vendors~main.js.map": "/YuhanLin1105/pat-ui/vendors~main.a798acf05b81a61068c4.bundle.js.map",
+    "iframe.html": "/YuhanLin1105/pat-ui/iframe.html",
+    "precache-manifest.46824eab771a0057882817f36cafbe13.js": "/YuhanLin1105/pat-ui/precache-manifest.46824eab771a0057882817f36cafbe13.js",
+    "service-worker.js": "/YuhanLin1105/pat-ui/service-worker.js",
+    "vendors~main.a798acf05b81a61068c4.bundle.js.LICENSE.txt": "/YuhanLin1105/pat-ui/vendors~main.a798acf05b81a61068c4.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.a798acf05b81a61068c4.bundle.js",
+    "static/css/vendors~main.f8f248a5.chunk.css",
+    "vendors~main.a798acf05b81a61068c4.bundle.js",
+    "static/css/main.922c0226.chunk.css",
+    "main.a798acf05b81a61068c4.bundle.js"
+  ]
+}
